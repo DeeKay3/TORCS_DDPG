@@ -1,7 +1,11 @@
 
-###The setup of the TORCS environment is completed thanks to Tolga Ok.
+### The setup of the TORCS environment is completed thanks to Tolga Ok.
 
 ### Parts of the code are inspired and taken from https://github.com/jastfkjg/DDPG_Torcs_PyTorch
+
+# USING DDPG TO TRAIN A SELF-DRIVING CAR IN TORCS
+
+This project uses DDPG to train a self driving racing car that navigates the tracks as fast as possible, while remaining on track. It uses the numeric features provided by the environment. The project is done for a graduate level Deep Reinforcement Learning course.
 
 ## Install
 
